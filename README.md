@@ -1,4 +1,4 @@
-# Sandbox-Project-P1-20240602.github.io
+# Sandbox-Music Player Project-P1-2024
 CS10 Lessons about Music Player Promotion
 
 # To Do List
