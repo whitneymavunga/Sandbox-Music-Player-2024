@@ -1,5 +1,5 @@
 # Sandbox-Music Player Project-P1-2024
-CS10 Lessons about Music Player Promotion
+CS10 Lessons Music Player Project
 
 # To Do List
 -[] item 1
