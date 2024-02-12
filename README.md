@@ -2,7 +2,7 @@
 CS10 Lessons Music Player Project
 
 # To Do List
--[] item 1
+-[ ] item 1
 -[x] item done
--[] <del> i do not want to do this
--[]
+-[ ] <del> i do not want to do this
+-[ ]
